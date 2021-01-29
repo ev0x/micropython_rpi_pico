@@ -1,0 +1,7 @@
+.vscode/*
+build/*
+*zip
+.env
+*.pyc
+bundles
+.DS_Store
